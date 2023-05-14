@@ -74,6 +74,7 @@ img{
   max-width: 100%;
   height: auto;
   display: block;
+  border-radius: 20px;
 }
 
 /*===== CLASS CSS ===== */
@@ -247,7 +248,7 @@ img{
 }
 .about__img img{
   width: 200px;
-  border-radius: .5rem;
+  border-radius: 2rem;
 }
 
 /* ===== SKILLS =====*/
@@ -303,7 +304,7 @@ img{
   width: 80%;
 }
 .skills__img{
-  border-radius: .5rem;
+  border-radius: 2rem;
 }
 
 /* ===== WORK =====*/
