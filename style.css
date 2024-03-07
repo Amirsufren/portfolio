@@ -303,6 +303,7 @@ img{
 .skills__bootstrap{
   width: 80%;
 }
+
 .skills__img{
   border-radius: 2rem;
 }
@@ -322,6 +323,10 @@ img{
 }
 .work__img img:hover{
   transform: scale(1.1);
+}
+.work-text{
+  margin-top: 10px;
+  text-align: center;
 }
 
 /* ===== CONTACT =====*/
@@ -403,6 +408,7 @@ img{
   .home{
     height: 100vh;
   }
+  
   .home__data{
     align-self: flex-end;
   }
